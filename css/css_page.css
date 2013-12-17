@@ -1,0 +1,44 @@
+/*
+     FILE ARCHIVED ON 11:55:59 Aug 5, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:50:19 Sep 30, 2013.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+.cad_portinner{
+	float:left;
+	margin:0;
+	padding:0;
+	margin:3px 3px 8px 3px;
+	width:166px;
+	height:156px;
+}
+.cad_portinner img{
+	float:left;
+	margin:0;
+	padding:0;
+	/*width:166px;
+	height:180px;*/
+}
+.cad_port{
+	float:left;
+	margin:0;
+	padding:0;
+	margin:5px 0px 25px 10px!important;
+	margin:15px 0px 5px 5px;
+	display:block;
+	width:166px;
+	height:180px;
+	color: #ffffff;
+	font-size: 11px;
+	text-align: left;
+}
+.cad_port img{
+	float:left;
+	margin:0;
+	padding:0;
+	/*margin:3px 3px 8px 3px;*/
+	/*width:156px;
+	height:156px;*/
+}

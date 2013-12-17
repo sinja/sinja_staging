@@ -1,0 +1,74 @@
+.carousel3, .carouselvid{
+	width:798px; float:left; 
+	height:404px;
+	overflow:hidden;
+	position:relative;
+	margin-left:12px;
+}
+.carouselvid{
+	height:281px;
+	background-color:#161516;
+	margin:0px !important;
+}
+.homeVideoHolder{
+	display:none;
+}
+#videos .homeVideoHolder{
+	margin:0px !important;
+}
+.carouselvid .next{
+	background-image:url(../img/assets/videoRight.gif);
+	position:absolute;
+	right:0px;
+	top:0px;
+}
+.carouselvid .prev{
+	background-image:url(../img/assets/videoLeft.gif);
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.next,
+.prev{
+	float:left;
+	text-indent:-9999px;
+	font-size:1px;
+	line-height:1px;
+	overflow:hidden;
+	width:34px;
+	height:441px;
+	background:url(slideLeft.png) no-repeat;
+	opacity:0.64 !important;
+	alpha(opacity=64) !important;
+	cursor:pointer;
+	z-index:90;
+	position:relative;
+	top:-19px;
+}
+.next{
+	float:right;
+	background:url(slideRight.png) no-repeat;
+	margin-right:0;
+}
+.pus 
+    {display:none;}
+.carouselvid-holder ul li, .carouselvid-holder{
+	width:798px !important;
+}
+.carousel3-holder, .homeVideoHolder, .carouselvid-holder{
+	float:left;
+	width:798px;
+	overflow:hidden;
+}
+.carousel3-holder ul,.carouselvid-holder ul{
+	float:left;
+	width:9999999px;
+	margin-top:0;
+}
+.carousel3-holder ul li, .carouselvid-holder ul li{
+	float:left;
+	overflow:hidden;
+	width:798px;
+}
+     
+     
